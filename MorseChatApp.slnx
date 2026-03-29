@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MorseChat.Api/MorseChat.Api.csproj" />
+    <Project Path="src/MorseChat.Application/MorseChat.Application.csproj" />
+    <Project Path="src/MorseChat.Blazor/MorseChat.Blazor.csproj" />
+    <Project Path="src/MorseChat.Domain/MorseChat.Domain.csproj" />
+    <Project Path="src/MorseChat.Infrastructure/MorseChat.Infrastructure.csproj" />
+  </Folder>
+</Solution>
